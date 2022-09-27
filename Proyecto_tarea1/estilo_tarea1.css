@@ -1,0 +1,22 @@
+body{
+    background-color: blueviolet;
+}
+#cabecera{
+    background-color: blue;
+}
+#principal{
+    background-color: aqua;
+}
+#pie{
+    text-align: center;
+    background-color: aliceblue;
+    border-style: solid;
+    border-width: medium;
+    border-color: rgb(24, 100, 100);
+}
+.artículo{
+    margin: 5px;
+}
+#artículo{
+    background-color: brown;
+}
